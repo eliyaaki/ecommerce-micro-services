@@ -1,0 +1,16 @@
+C:\Users\eliya\my-projects\ecommerce-micro-services-project\ecommerce-micro-services-parent\user-auth-service\src\main\java\com\ecommercemicroservices\userauthservice\controller\DemoController.java
+C:\Users\eliya\my-projects\ecommerce-micro-services-project\ecommerce-micro-services-parent\user-auth-service\src\main\java\com\ecommercemicroservices\userauthservice\UserAuthServiceApplication.java
+C:\Users\eliya\my-projects\ecommerce-micro-services-project\ecommerce-micro-services-parent\user-auth-service\src\main\java\com\ecommercemicroservices\userauthservice\service\UserDetailsServiceImpl.java
+C:\Users\eliya\my-projects\ecommerce-micro-services-project\ecommerce-micro-services-parent\user-auth-service\src\main\java\com\ecommercemicroservices\userauthservice\dto\AuthenticationRequest.java
+C:\Users\eliya\my-projects\ecommerce-micro-services-project\ecommerce-micro-services-parent\user-auth-service\src\main\java\com\ecommercemicroservices\userauthservice\config\JwtConfig.java
+C:\Users\eliya\my-projects\ecommerce-micro-services-project\ecommerce-micro-services-parent\user-auth-service\src\main\java\com\ecommercemicroservices\userauthservice\dto\RegistrationRequest.java
+C:\Users\eliya\my-projects\ecommerce-micro-services-project\ecommerce-micro-services-parent\user-auth-service\src\main\java\com\ecommercemicroservices\userauthservice\service\JwtService.java
+C:\Users\eliya\my-projects\ecommerce-micro-services-project\ecommerce-micro-services-parent\user-auth-service\src\main\java\com\ecommercemicroservices\userauthservice\repository\UserRepository.java
+C:\Users\eliya\my-projects\ecommerce-micro-services-project\ecommerce-micro-services-parent\user-auth-service\src\main\java\com\ecommercemicroservices\userauthservice\filter\JwtAuthenticationFilter.java
+C:\Users\eliya\my-projects\ecommerce-micro-services-project\ecommerce-micro-services-parent\user-auth-service\src\main\java\com\ecommercemicroservices\userauthservice\config\SecurityConfig.java
+C:\Users\eliya\my-projects\ecommerce-micro-services-project\ecommerce-micro-services-parent\user-auth-service\src\main\java\com\ecommercemicroservices\userauthservice\controller\UserController.java
+C:\Users\eliya\my-projects\ecommerce-micro-services-project\ecommerce-micro-services-parent\user-auth-service\src\main\java\com\ecommercemicroservices\userauthservice\filter\JwtVerifierFilter.java
+C:\Users\eliya\my-projects\ecommerce-micro-services-project\ecommerce-micro-services-parent\user-auth-service\src\main\java\com\ecommercemicroservices\userauthservice\model\Role.java
+C:\Users\eliya\my-projects\ecommerce-micro-services-project\ecommerce-micro-services-parent\user-auth-service\src\main\java\com\ecommercemicroservices\userauthservice\model\User.java
+C:\Users\eliya\my-projects\ecommerce-micro-services-project\ecommerce-micro-services-parent\user-auth-service\src\main\java\com\ecommercemicroservices\userauthservice\dto\AuthenticationResponse.java
+C:\Users\eliya\my-projects\ecommerce-micro-services-project\ecommerce-micro-services-parent\user-auth-service\src\main\java\com\ecommercemicroservices\userauthservice\service\UserService.java

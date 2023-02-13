@@ -1,0 +1,20 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/inventory-service
+    username: root
+    password: Eliya229978
+  application:
+    name: inventory-service
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+server:
+  port: 0
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: prometheus

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: come.ecommercemicroservices.productservice.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.084 s - in come.ecommercemicroservices.productservice.ProductServiceApplicationTests

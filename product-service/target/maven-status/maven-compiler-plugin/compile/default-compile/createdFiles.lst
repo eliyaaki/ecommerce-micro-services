@@ -1,0 +1,10 @@
+come\ecommercemicroservices\productservice\model\Product$ProductBuilder.class
+come\ecommercemicroservices\productservice\service\ProductService.class
+come\ecommercemicroservices\productservice\dto\ProductResponseDto.class
+come\ecommercemicroservices\productservice\dto\ProductResponseDto$ProductResponseDtoBuilder.class
+come\ecommercemicroservices\productservice\dto\ProductRequestDto$ProductRequestDtoBuilder.class
+come\ecommercemicroservices\productservice\model\Product.class
+come\ecommercemicroservices\productservice\ProductServiceApplication.class
+come\ecommercemicroservices\productservice\dto\ProductRequestDto.class
+come\ecommercemicroservices\productservice\repository\ProductRepository.class
+come\ecommercemicroservices\productservice\comtroller\ProductController.class

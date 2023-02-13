@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "spring.application.jwt",
+      "type": "com.ecommercemicroservices.userauthservice.config.JwtConfig",
+      "sourceType": "com.ecommercemicroservices.userauthservice.config.JwtConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.application.jwt.private-secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.ecommercemicroservices.userauthservice.config.JwtConfig"
+    },
+    {
+      "name": "spring.application.jwt.token-expiration-after-days",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ecommercemicroservices.userauthservice.config.JwtConfig"
+    },
+    {
+      "name": "spring.application.jwt.token-prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.ecommercemicroservices.userauthservice.config.JwtConfig"
+    }
+  ],
+  "hints": []
+}

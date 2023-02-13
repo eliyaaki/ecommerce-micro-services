@@ -1,0 +1,7 @@
+com\ecommercemicroservices\inventoryservice\InventoryServiceApplication.class
+com\ecommercemicroservices\inventoryservice\dto\InventoryResponseDto$InventoryResponseDtoBuilder.class
+com\ecommercemicroservices\inventoryservice\controller\InventoryController.class
+com\ecommercemicroservices\inventoryservice\model\Inventory.class
+com\ecommercemicroservices\inventoryservice\dto\InventoryResponseDto.class
+com\ecommercemicroservices\inventoryservice\service\InventoryService.class
+com\ecommercemicroservices\inventoryservice\repository\InventoryRepository.class
