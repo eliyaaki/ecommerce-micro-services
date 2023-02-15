@@ -17,7 +17,7 @@ import reactor.core.publisher.Mono;
 @Slf4j
 public class AuthenticationFilter implements GatewayFilter {
     @Autowired
-    private RouterValidator routerValidator;//custom route validator
+    private RouterValidator routerValidator;
     @Autowired
     private JwtService jwtService;
     @Autowired
