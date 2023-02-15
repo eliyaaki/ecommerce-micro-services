@@ -31,6 +31,7 @@ public class User implements UserDetails {
     @NotBlank(message = "password is a required field")
     private String password;
     @NotBlank(message = "email is a required field")
+    @Column(unique = true)
     private String email;
 
     private LocalDate lastConnectivity;

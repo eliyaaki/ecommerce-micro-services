@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>org.example</groupId>
+    <groupId>com.ecommercemicroservices</groupId>
     <artifactId>ecommerce-micro-services-parent</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
@@ -23,6 +23,7 @@
         <module>api-gateway</module>
         <module>notification-service</module>
         <module>user-auth-service</module>
+<!--        <module>kafka-service</module>-->
     </modules>
 
     <properties>
@@ -73,7 +74,7 @@
                     <from>
                         <image>eclipse-temurin:17.0.4.1_1-jre</image>
                     </from>
-                    <to><image>registry.hub.docker.com/2299782093/${artifactId}</image></to>
+                    <to><image>registry.hub.docker.com/2299782093/${project.artifactId}</image></to>
                 </configuration>
             </plugin>
         </plugins>

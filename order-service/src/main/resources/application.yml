@@ -10,13 +10,15 @@ spring:
   jpa:
     hibernate:
       ddl-auto: update
-#  kafka:
+  kafka:
+    consumer:
+      group-id: default
 #    producer:
 #      key-serializer: org.apache.common.serialization.StringSerializer
 #      value-serializer: org.springframework.kafka.serializer.JsonSerializer
-#    bootstrap-servers: localhost:9092
-#    template:
-#      default-topic: notification-topic
+    bootstrap-servers: localhost:9092
+    template:
+      default-topic: notification-topic
 server:
   port: 0
 
